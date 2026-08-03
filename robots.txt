@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /politika-kolacica/
+Disallow: /pravila-privatnosti/
+
+Sitemap: https://mazulovicinstalacije.hr/sitemap.xml

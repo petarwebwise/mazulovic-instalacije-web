@@ -1,0 +1,20 @@
+# Source/working images (not for deployment)
+webp images/
+
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Deployment ZIP
+*.zip
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
