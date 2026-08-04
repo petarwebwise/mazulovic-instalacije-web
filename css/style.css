@@ -483,6 +483,19 @@ p:last-child { margin-bottom: 0; }
   margin-bottom: 0;
 }
 
+/* --- Vehicle Showcase --- */
+.vehicle-showcase {
+  text-align: center;
+  padding: 2rem 0 0;
+}
+.vehicle-showcase img {
+  border-radius: var(--radius);
+  max-width: 640px;
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+}
+
 /* --- About / Features --- */
 .about-grid {
   display: grid;

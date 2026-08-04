@@ -91,9 +91,7 @@
 
   // --- GA4 Loading ---
   function loadGA4() {
-    // Replace GA4_MEASUREMENT_ID with actual ID when available
-    var GA4_ID = 'G-XXXXXXXXXX';
-    if (GA4_ID === 'G-XXXXXXXXXX') return;
+    var GA4_ID = 'G-BRL0E1KHT8';
 
     if (document.querySelector('script[src*="gtag"]')) return;
 
