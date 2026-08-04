@@ -175,6 +175,72 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Podstranice usluga - Vodoinstalacije -->
+  <url>
+    <loc>https://mazulovicinstalacije.hr/vodoinstalacije/ciscenje-odvoda/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/vodoinstalacije/popravak-curenja/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/vodoinstalacije/slavine/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/vodoinstalacije/tusevi/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/vodoinstalacije/wc/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/vodoinstalacije/ugradnja-bojlera/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Podstranice usluga - Grijanje -->
+  <url>
+    <loc>https://mazulovicinstalacije.hr/grijanje/ugradnja-sustava-grijanja/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/grijanje/odrzavanje-grijanja/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mazulovicinstalacije.hr/grijanje/podno-grijanje/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Podstranice usluga - Klimatizacija -->
+  <url>
+    <loc>https://mazulovicinstalacije.hr/klimatizacija/ugradnja-klima-uredaja/</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Pravne stranice -->
   <url>
     <loc>https://mazulovicinstalacije.hr/politika-kolacica/</loc>
