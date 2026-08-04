@@ -61,6 +61,10 @@
     });
   }
 
+  // --- Dynamic Year ---
+  var yearEl = document.querySelector('.footer__year');
+  if (yearEl) yearEl.textContent = new Date().getFullYear();
+
   // --- Cookie Banner ---
   var cookieBanner = document.querySelector('.cookie-banner');
   var cookieAccept = document.getElementById('cookie-accept');
