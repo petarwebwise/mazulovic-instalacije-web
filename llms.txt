@@ -36,8 +36,8 @@ Mazulović Instalacije je obrt za vodoinstalaterske usluge, grijanje i klimatiza
 
 ### Klimatizacija
 - Montaža klima uređaja
+- Zamjena starih klima uređaja
 - Demontaža i premještanje klime
-- Servis i punjenje plina
 - Savjetovanje oko ugradnje
 - Odvod kondenzata
 
@@ -47,8 +47,44 @@ Zagreb: Dubrava, Sesvete, Maksimir, Peščenica, Novi Zagreb, Trnje, Trešnjevka
 
 ## Stranice
 
-- Početna: https://mazulovicinstalacije.hr/
-- Vodoinstalacije: https://mazulovicinstalacije.hr/vodoinstalacije/
-- Grijanje: https://mazulovicinstalacije.hr/grijanje/
-- Klimatizacija: https://mazulovicinstalacije.hr/klimatizacija/
-- Kontakt: https://mazulovicinstalacije.hr/kontakt/
+- [Početna](https://mazulovicinstalacije.hr/)
+- [Vodoinstalacije](https://mazulovicinstalacije.hr/vodoinstalacije/)
+- [Grijanje](https://mazulovicinstalacije.hr/grijanje/)
+- [Klimatizacija](https://mazulovicinstalacije.hr/klimatizacija/)
+- [Kontakt](https://mazulovicinstalacije.hr/kontakt/)
+
+### Podstranice usluga
+- [Čišćenje odvoda](https://mazulovicinstalacije.hr/vodoinstalacije/ciscenje-odvoda/)
+- [Popravak curenja](https://mazulovicinstalacije.hr/vodoinstalacije/popravak-curenja/)
+- [Slavine - ugradnja i popravak](https://mazulovicinstalacije.hr/vodoinstalacije/slavine/)
+- [Tuševi - ugradnja i popravak](https://mazulovicinstalacije.hr/vodoinstalacije/tusevi/)
+- [WC - ugradnja i popravak](https://mazulovicinstalacije.hr/vodoinstalacije/wc/)
+- [Ugradnja bojlera](https://mazulovicinstalacije.hr/vodoinstalacije/ugradnja-bojlera/)
+- [Ugradnja sustava grijanja](https://mazulovicinstalacije.hr/grijanje/ugradnja-sustava-grijanja/)
+- [Održavanje grijanja](https://mazulovicinstalacije.hr/grijanje/odrzavanje-grijanja/)
+- [Podno grijanje](https://mazulovicinstalacije.hr/grijanje/podno-grijanje/)
+- [Ugradnja klima uređaja](https://mazulovicinstalacije.hr/klimatizacija/ugradnja-klima-uredaja/)
+
+### Lokacijske stranice
+- [Dubrava](https://mazulovicinstalacije.hr/dubrava/)
+- [Sesvete](https://mazulovicinstalacije.hr/sesvete/)
+- [Maksimir](https://mazulovicinstalacije.hr/maksimir/)
+- [Peščenica](https://mazulovicinstalacije.hr/pescenica/)
+- [Novi Zagreb](https://mazulovicinstalacije.hr/novi-zagreb/)
+- [Trnje](https://mazulovicinstalacije.hr/trnje/)
+- [Trešnjevka](https://mazulovicinstalacije.hr/tresnjevka/)
+- [Črnomerec](https://mazulovicinstalacije.hr/crnomerec/)
+- [Stenjevec](https://mazulovicinstalacije.hr/stenjevec/)
+- [Podsused](https://mazulovicinstalacije.hr/podsused/)
+- [Susedgrad](https://mazulovicinstalacije.hr/susedgrad/)
+- [Jarun](https://mazulovicinstalacije.hr/jarun/)
+- [Vrbani](https://mazulovicinstalacije.hr/vrbani/)
+- [Zapruđe](https://mazulovicinstalacije.hr/zaprudje/)
+- [Travno](https://mazulovicinstalacije.hr/travno/)
+- [Sloboština](https://mazulovicinstalacije.hr/slobostina/)
+- [Špansko](https://mazulovicinstalacije.hr/spansko/)
+- [Malešnica](https://mazulovicinstalacije.hr/malesnica/)
+- [Voltino](https://mazulovicinstalacije.hr/voltino/)
+- [Rudeš](https://mazulovicinstalacije.hr/rudes/)
+- [Kustošija](https://mazulovicinstalacije.hr/kustosija/)
+- [Gajnice](https://mazulovicinstalacije.hr/gajnice/)
