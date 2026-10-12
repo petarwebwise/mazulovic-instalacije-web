@@ -1,3 +1,7 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^(www\.)?mazulovicinstalacije\.hr$ [NC]
+RewriteRule ^ - [R=404,L]
+
 # Force HTTPS
 RewriteEngine On
 RewriteCond %{HTTPS} off
